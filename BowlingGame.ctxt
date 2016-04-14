@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=pins
+comment0.target=void\ roll(int)
+comment1.params=
+comment1.target=int\ score()
+comment2.params=frameIndex
+comment2.target=boolean\ isStrike(int)
+comment3.params=frameIndex
+comment3.target=int\ sumOfBallsInFrame(int)
+comment4.params=frameIndex
+comment4.target=int\ spareBonus(int)
+comment5.params=frameIndex
+comment5.target=int\ strikeBonus(int)
+comment6.params=frameIndex
+comment6.target=boolean\ isSpare(int)
+numComments=7
